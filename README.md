@@ -59,4 +59,4 @@ This project demonstrates:
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request. Any improvements to the design, layout, or functionality are appreciated.
 
 ### **License**
-This project is licensed under the GPL-3.0 License. See the LICENSE file for details.
+This project is licensed under the GPL-3.0 License. See the [LICENSE](https://github.com/stephenombuya/credit-card/blob/main/LICENSE) file for details.
